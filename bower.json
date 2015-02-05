@@ -1,0 +1,22 @@
+{
+  "name": "Stock-Mocha-Portfolio",
+  "version": "0.0.0",
+  "homepage": "https://github.com/blacktylera/Stock-Mocha-Portfolio",
+  "authors": [
+    "Tyler Black <blacktylera@gmail.com>"
+  ],
+  "description": "This is an app demonstrating testing front end JavaScript with Mocha and Chai.",
+  "main": "public/index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "mocha": "~2.1.0",
+    "chai": "~1.10.0"
+  }
+}
