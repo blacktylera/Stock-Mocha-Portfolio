@@ -19,8 +19,7 @@ module.exports = function(config) {
       'test/spec/**/*.test.js',
       'bower_components/jquery/dist/jquery.min.js',
       'bower_components/async/lib/async.js',
-      'bower_components/lodash/lodash.min.js',
-      'public/js/**/*.main.js'
+      'bower_components/lodash/lodash.min.js'
     ],
 
 
