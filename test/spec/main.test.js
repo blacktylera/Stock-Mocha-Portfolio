@@ -36,6 +36,7 @@ describe('DOM', function () {
         $('body').append('<table><thead></thead><tbody></tbody></table>');
       }
     });
+
     beforeEach(function () {
       $('tbody').empty();
     });
@@ -90,6 +91,7 @@ describe('DOM', function () {
 
 describe('ASYNC', function () {
   this.timeout(10 * 1000);
+
   describe('getStock', function () {
     it('should return a stock object', function (done) {
       getStock('AAPL', function (stock) {
