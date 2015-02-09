@@ -12,3 +12,5 @@ This is an app demonstrating testing front end JavaScript with Mocha and Chai.
 
 ![NSS-Cohort-8](https://img.shields.io/badge/NSS-cohort--8-6a1ab0.svg)
 
+
+[![forthebadge](http://forthebadge.com/images/badges/oooo-kill-em.svg)](http://forthebadge.com)
